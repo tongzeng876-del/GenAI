@@ -14,3 +14,6 @@ This repository contains a small writing workflow: an assistant-generated draft 
 - `51282a5` repository setup
 - `8d027dd` assistant-created draft
 - `31e3550` manual edited version
+
+## Youtube link
+- https://youtu.be/MSNoOw0j5n0
